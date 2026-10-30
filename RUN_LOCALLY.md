@@ -106,9 +106,8 @@ You can test the application with pre-seeded test accounts:
 | Role | Email | Password | Access Level |
 | :--- | :--- | :--- | :--- |
 | **Participant (Demo)** | `participant@nagarjuna.edu` | `participant123` | Student Dashboard & Submissions |
-| **Coordinator** | `parthashankar21@gmail.com` | *See local `ADMIN_CREDENTIALS.md`* | Admin Console, Screening & Locks |
-| **Coordinator** | `nirmithmjain@gmail.com` | *See local `ADMIN_CREDENTIALS.md`* | Admin Console, Screening & Locks |
-| **SPOC** | `dr.bhargava@ncetmail.com` | *See local `ADMIN_CREDENTIALS.md`* | Admin Console & Final Approval |
+| **Coordinator** | *See local `ADMIN_CREDENTIALS.md`* | *See local `ADMIN_CREDENTIALS.md`* | Admin Console, Screening & Locks |
+| **SPOC** | *See local `ADMIN_CREDENTIALS.md`* | *See local `ADMIN_CREDENTIALS.md`* | Admin Console & Final Approval |
 
 > 📝 **Self-service Registration**: You can also register a new student participant account directly from the UI at [/register](http://localhost:5173/register).
 
